@@ -1,0 +1,26 @@
+Git Command
+
+1.	git init
+2.	git clone <repo_link>
+3.	git add -a
+4.	git status
+5.	git commit –m “desc”
+6.	git remote add origin https://github.com/mvimal678/FirstProject.git
+7.	git push -u origin master
+8.	git checkout -b <branch_name> - create branch
+9.	git checkout <branch> 
+10.	git branch -d <branch> - delete branch
+11.	git push origin <branch> - push change to online repository
+Git Command
+
+1.	git init
+2.	git clone <repo_link>
+3.	git add -a
+4.	git status
+5.	git commit –m “desc”
+6.	git remote add origin https://github.com/mvimal678/FirstProject.git
+7.	git push -u origin master
+8.	git checkout -b <branch_name> - create branch
+9.	git checkout <branch> 
+10.	git branch -d <branch> - delete branch
+11.	git push origin <branch> - push change to online repository
